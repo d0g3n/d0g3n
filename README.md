@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**d0g3n/d0g3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-grey)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+
+---
+
+### Currently
+
+- TryHackMe
+- Running self-hosted services on a HomeLab
+- Finding a job
+- Studying Python and C
+
+---
+
+### Interests
+
+- Hobbyist electronics
+- Intermediate penetration testing
+- Intermediate SOC-analyst
+- Reverse engineering
+- Assembly code
+
+---
+
