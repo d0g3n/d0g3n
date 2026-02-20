@@ -2,31 +2,24 @@
 
 ---
 
-### Tools & Technologies
-
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-grey)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
-
----
-
 ### Currently
 
-- TryHackMe
-- Running self-hosted services on a HomeLab
-- Finding a job
-- Studying Python and C
+- Internship
+- Assembling new homelab
+- Studying Python and web security
 
 ---
 
 ### Interests
 
-- Hobbyist electronics
-- Intermediate penetration testing
-- Intermediate SOC-analyst
+- Microcontrollers
+- Penetration testing
+- Bug Bounty hunting
 - Reverse engineering
-- Assembly code
+- OSINT
+- Open-Source software
+- Physical media
+- Web Revival
 
 ---
 
